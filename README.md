@@ -66,7 +66,7 @@ Et attention, il s'agit encore là de se débrouiller **uniquement avec l'aide d
 
 - Pour ce faire, donc, écrivez et documentez:
 
-  - [ ] L'interface Java **ImageByteArrayFrame**
+  - [ ] La classe Java **ImageByteArrayFrame**
   
   - [ ] En vous aidant de sa super-classe et la documentant (javadoc):
 
