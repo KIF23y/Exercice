@@ -62,7 +62,7 @@ public static void main(String[] args) {
 Arrays.copyOfRange(originImage,0,originImage.length-2)
 ```
 
-Et attention, il s'agit encore là de se débrouiller **uniquement avec l'aide des bibliothèques (modules) de votre JDK**.
+Et attention, il s'agit encore là de se débrouiller **uniquement avec l'aide des bibliothèques (modules) de votre JDK**, mis-à-part la librairie **commons-codec** qui, évidemment, va vous permettre de sérialiser / désérialiser par flux en Base64 (indice: https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64OutputStream.html).
 
 - Pour ce faire, donc, écrivez et documentez:
 
